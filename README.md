@@ -7,20 +7,7 @@ Professor : Ansaf Salleb-Aouissi
 Written by: Tom Cohen
 
 Code: Tom Cohen, Adam Lin, Gustave Ducrest, Rohith Ravindranath 
-
-**DEADLINE: December 10 at 11:59 PM (EDT)**
-
-## Preface and Learning Objectives
-
-In this (super exciting) project, we will use Adversarial AI to defeat a strategic opponent at a mind game. The project will include and expand what we have covered in class, in particular Adversarial Search. However, in order to do well in the project, groups will also have to demonstrate creativity!
-
-### Learning Objectives
-
-By the end of this project you will have learned:
-1. **Minimax, ExpectiMinimax, Alpha-Beta Pruning, IDS (optional)**
-2. Inventive **Heuristics**!
-3. Adversarial Seach under **Time and Depth Constraints**
-4. How to **collaborate effectively**
+Author for AI: Winston Zhang, Vish Tiwari
 
 ## 1. Game Description
 
